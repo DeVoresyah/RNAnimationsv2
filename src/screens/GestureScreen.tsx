@@ -84,7 +84,8 @@ GestureScreen.options = {
         },
         backButton: {
             visible: true,
-            color: Colors.secondary
+            color: Colors.secondary,
+            showTitle: false
         }
     }
 }
